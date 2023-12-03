@@ -1,0 +1,17 @@
+{
+  "name": "mongodb-aggregation",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
